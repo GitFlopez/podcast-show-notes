@@ -1,0 +1,10 @@
+{
+  "name": "podcast-show-notes",
+  "version": "1.0.0",
+  "description": "ClawHub skill: podcast-show-notes",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "content"
+  }
+}
